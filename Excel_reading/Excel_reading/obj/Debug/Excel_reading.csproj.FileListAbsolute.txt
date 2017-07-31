@@ -1,0 +1,10 @@
+c:\users\tfy.tfy-pc\documents\visual studio 2015\Projects\Excel_reading\Excel_reading\bin\Debug\Excel_reading.exe.config
+c:\users\tfy.tfy-pc\documents\visual studio 2015\Projects\Excel_reading\Excel_reading\bin\Debug\Excel_reading.exe
+c:\users\tfy.tfy-pc\documents\visual studio 2015\Projects\Excel_reading\Excel_reading\bin\Debug\Excel_reading.pdb
+c:\users\tfy.tfy-pc\documents\visual studio 2015\Projects\Excel_reading\Excel_reading\obj\Debug\Excel_reading.csprojResolveAssemblyReference.cache
+c:\users\tfy.tfy-pc\documents\visual studio 2015\Projects\Excel_reading\Excel_reading\obj\Debug\Excel_reading.csproj.ResolveComReference.cache
+c:\users\tfy.tfy-pc\documents\visual studio 2015\Projects\Excel_reading\Excel_reading\obj\Debug\Excel_reading.Form1.resources
+c:\users\tfy.tfy-pc\documents\visual studio 2015\Projects\Excel_reading\Excel_reading\obj\Debug\Excel_reading.Properties.Resources.resources
+c:\users\tfy.tfy-pc\documents\visual studio 2015\Projects\Excel_reading\Excel_reading\obj\Debug\Excel_reading.csproj.GenerateResource.Cache
+c:\users\tfy.tfy-pc\documents\visual studio 2015\Projects\Excel_reading\Excel_reading\obj\Debug\Excel_reading.exe
+c:\users\tfy.tfy-pc\documents\visual studio 2015\Projects\Excel_reading\Excel_reading\obj\Debug\Excel_reading.pdb
